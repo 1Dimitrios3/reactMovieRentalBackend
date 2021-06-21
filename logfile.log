@@ -1,0 +1,117 @@
+{"message":"Crashed during loadtime!","stack":"Error: Crashed during loadtime!\n    at Object.<anonymous> (/Users/dimitrismavrokefalos/Desktop/vidlyRevisited/index.js:31:7)\n    at Module._compile (internal/modules/cjs/loader.js:1085:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:791:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-01-01T18:45:50.781Z"}
+{"message":"Crashed during loadtime!","stack":"Error: Crashed during loadtime!\n    at Object.<anonymous> (/Users/dimitrismavrokefalos/Desktop/vidlyRevisited/index.js:36:26)\n    at Module._compile (internal/modules/cjs/loader.js:1085:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)\n    at Module.load (internal/modules/cjs/loader.js:950:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:791:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2021-01-01T19:30:22.292Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-01-01T20:00:03.571Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-01T20:14:57.346Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-01-01T20:14:57.388Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-01T20:15:40.625Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-01-01T20:15:40.666Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-01T20:17:37.286Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-01-01T20:17:37.320Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-01T20:18:41.689Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-01-01T20:18:41.723Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-02T11:56:15.431Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2021-01-02T11:56:15.471Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T12:54:11.486Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-01-03T12:54:11.511Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T12:55:37.189Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T12:55:37.216Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:11:21.027Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:12:53.843Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:13:59.072Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:14:23.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:14:23.591Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:18:57.158Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:18:57.187Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:21:59.052Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:21:59.081Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:22:21.826Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:22:21.855Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:24:45.675Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:24:45.706Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:33:04.306Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:33:04.333Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:33:45.790Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:33:45.826Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:35:21.127Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:35:21.155Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:43:44.973Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:43:45.006Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/dimitrismavrokefalos/Desktop/vidlyRevisited/node_modules/mongoose/lib/query.js:4358:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/dimitrismavrokefalos/Desktop/vidlyRevisited/node_modules/mongoose/lib/query.js:4450:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2021-01-03T13:43:45.094Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:46:57.627Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:46:57.658Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:51:56.583Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:51:56.617Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:53:43.175Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:53:43.204Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (/Users/dimitrismavrokefalos/Desktop/vidlyRevisited/node_modules/mongoose/lib/query.js:4358:21)\n    at model.Query.Object.<anonymous>.Query.then (/Users/dimitrismavrokefalos/Desktop/vidlyRevisited/node_modules/mongoose/lib/query.js:4450:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2021-01-03T13:53:43.282Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T13:54:12.162Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T13:54:12.191Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T19:04:13.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T19:04:13.080Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T19:07:49.526Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T19:07:49.565Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T19:09:20.965Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T19:09:21.003Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T19:11:37.109Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T19:11:37.140Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T19:16:02.121Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T19:16:02.150Z"}
+{"message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","stack":"ValidationError: Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).\n    at model.Object.<anonymous>.Document.invalidate (/Users/dimitrismavrokefalos/Desktop/vidlyRevisited/node_modules/mongoose/lib/document.js:2688:32)\n    at /Users/dimitrismavrokefalos/Desktop/vidlyRevisited/node_modules/mongoose/lib/document.js:2508:17\n    at /Users/dimitrismavrokefalos/Desktop/vidlyRevisited/node_modules/mongoose/lib/schematype.js:1260:9\n    at processTicksAndRejections (internal/process/task_queues.js:75:11)","errors":{"name":{"name":"ValidatorError","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","properties":{"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`) is longer than the maximum allowed length (50).","type":"maxlength","maxlength":50,"path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"},"kind":"maxlength","path":"name","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}},"_message":"Genre validation failed","level":"error","timestamp":"2021-01-03T19:16:02.280Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T19:16:39.590Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T19:16:39.620Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T19:20:57.258Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T19:20:57.290Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T19:24:15.225Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T19:24:15.257Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T19:24:53.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T19:24:53.332Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-01-03T19:38:42.500Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2_tests...","timestamp":"2021-01-03T19:38:42.534Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-21T09:17:15.773Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T09:17:15.799Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-21T09:25:40.115Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T09:25:40.143Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-21T09:49:38.283Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T09:49:38.310Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-21T09:57:05.793Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T09:57:05.821Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-21T09:58:36.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T09:58:36.083Z"}
+{"level":"info","message":"Listening on port 3009","timestamp":"2021-06-21T10:00:00.648Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T10:00:00.675Z"}
+{"level":"info","message":"Listening on port 3009","timestamp":"2021-06-21T10:03:48.978Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T10:03:49.004Z"}
+{"level":"info","message":"Listening on port 3009","timestamp":"2021-06-21T10:07:59.693Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T10:07:59.718Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-21T10:12:12.749Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T10:12:12.775Z"}
+{"level":"info","message":"Listening on port 3009","timestamp":"2021-06-21T10:12:25.115Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T10:12:25.141Z"}
+{"level":"info","message":"Listening on port 3009","timestamp":"2021-06-21T10:28:48.172Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T10:28:48.198Z"}
+{"level":"info","message":"Listening on port 3009","timestamp":"2021-06-21T10:32:10.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T10:32:10.833Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-21T15:00:37.781Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T15:00:37.830Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-21T15:00:52.103Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T15:00:52.128Z"}
+{"message":"Cast to ObjectId failed for value \"5feb53509cf6bc680e9a35e5er\" at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"5feb53509cf6bc680e9a35e5er\" at path \"_id\" for model \"Movie\"\n    at model.Query.exec (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/mongoose/lib/query.js:4358:21)\n    at model.Query.Query.then (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/mongoose/lib/query.js:4450:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"5feb53509cf6bc680e9a35e5er\"","kind":"ObjectId","value":"5feb53509cf6bc680e9a35e5er","path":"_id","reason":{},"level":"error","timestamp":"2021-06-21T15:24:37.058Z"}
+{"message":"Cast to ObjectId failed for value \"5feb53509cf6bc680e9a35e5er\" at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"5feb53509cf6bc680e9a35e5er\" at path \"_id\" for model \"Movie\"\n    at model.Query.exec (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/mongoose/lib/query.js:4358:21)\n    at model.Query.Query.then (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/mongoose/lib/query.js:4450:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"5feb53509cf6bc680e9a35e5er\"","kind":"ObjectId","value":"5feb53509cf6bc680e9a35e5er","path":"_id","reason":{},"level":"error","timestamp":"2021-06-21T15:24:54.167Z"}
+{"message":"Cast to ObjectId failed for value \"5feb53509cf6bc680e9a35e5er\" at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"5feb53509cf6bc680e9a35e5er\" at path \"_id\" for model \"Movie\"\n    at model.Query.exec (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/mongoose/lib/query.js:4358:21)\n    at model.Query.Query.then (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/mongoose/lib/query.js:4450:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"5feb53509cf6bc680e9a35e5er\"","kind":"ObjectId","value":"5feb53509cf6bc680e9a35e5er","path":"_id","reason":{},"level":"error","timestamp":"2021-06-21T15:24:56.054Z"}
+{"message":"Cast to ObjectId failed for value \"5feb53509cf6bc680e9a35e5er\" at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"5feb53509cf6bc680e9a35e5er\" at path \"_id\" for model \"Movie\"\n    at model.Query.exec (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/mongoose/lib/query.js:4358:21)\n    at model.Query.Query.then (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/mongoose/lib/query.js:4450:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"5feb53509cf6bc680e9a35e5er\"","kind":"ObjectId","value":"5feb53509cf6bc680e9a35e5er","path":"_id","reason":{},"level":"error","timestamp":"2021-06-21T15:25:05.031Z"}
+{"message":"Cast to ObjectId failed for value \"5feb52e99cf6bc680e9a35e33\" at path \"_id\" for model \"Movie\"","stack":"CastError: Cast to ObjectId failed for value \"5feb52e99cf6bc680e9a35e33\" at path \"_id\" for model \"Movie\"\n    at model.Query.exec (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/mongoose/lib/query.js:4358:21)\n    at model.Query.Query.then (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/mongoose/lib/query.js:4450:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"5feb52e99cf6bc680e9a35e33\"","kind":"ObjectId","value":"5feb52e99cf6bc680e9a35e33","path":"_id","reason":{},"level":"error","timestamp":"2021-06-21T15:26:16.860Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-21T15:30:56.869Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T15:30:56.892Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-21T15:31:04.310Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T15:31:04.336Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-21T15:39:12.731Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T15:39:12.759Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-21T15:44:20.752Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T15:44:20.778Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-21T15:49:15.305Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T15:49:15.336Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-21T15:50:26.026Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T15:50:26.054Z"}
+{"message":"genre is not defined","stack":"ReferenceError: genre is not defined\n    at /Users/dimitrismavrokefalos/Desktop/MovieRental/backend/routes/movies.js:48:18\n    at newFn (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:354:14)\n    at param (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:410:3)\n    at next (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:317:13)\n    at /Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:275:10)\n    at /Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/raw-body/index.js:224:16)","level":"error","timestamp":"2021-06-21T15:50:33.993Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-21T15:51:23.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-21T15:51:23.324Z"}
