@@ -22,15 +22,16 @@ router.post('/', async (req, res) => {
     if(user)
         return res.status(400).send('User already registered!')
 
-    // user = new User({
-    //     name: req.body.name,
-    //     email: req.body.email,
-    //     password: req.body.password
-    // });
+    user = new User({
+        firstName: req.body.firstName,
+        lastName: req.body.lastName,
+        email: req.body.email,
+        password: req.body.password
+    });
 
 // <> alternative object creation
 
-  user = new User(_.pick(req.body, ['name', 'email', 'password']));
+//   user = new User(_.pick(req.body, ['firstName', 'lastName', 'email', 'password']));
 // <>
     const salt = await bcrypt.genSalt(10);
     user.password = await bcrypt.hash(user.password, salt);
@@ -39,7 +40,10 @@ router.post('/', async (req, res) => {
 
     const token = user.generateAuthToken();
 
-    res.header('x-auth-token', token).send(_.pick(user, ['_id', 'name', 'email']));
+    res
+    .header('x-auth-token', token)
+    .header('access-control-expose-headers', 'x-auth-token')
+    .send(_.pick(user, ['_id', 'firstName', 'lastName', 'email']));
 });
 
 module.exports = router;
