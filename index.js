@@ -15,7 +15,7 @@ app.get("/", (req, res) => {
   res.redirect("/api/genres");
 });
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4000;
 const server = app.listen(port, () =>
   winston.info(`Listening on port ${port}`)
 );

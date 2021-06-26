@@ -137,3 +137,87 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-24T18:37:44.201Z"}
 {"level":"info","message":"Listening on port 4000","timestamp":"2021-06-24T19:11:05.166Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-24T19:11:05.193Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T19:07:37.286Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:07:37.341Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-25T19:34:48.660Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:34:48.686Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-25T19:35:04.685Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:35:04.712Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2021-06-25T19:36:46.731Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:36:46.758Z"}
+{"level":"info","message":"Listening on port undefined","timestamp":"2021-06-25T19:37:15.690Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:37:15.716Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T19:37:40.881Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:37:40.909Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T19:41:44.413Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:41:44.439Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T19:47:09.210Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:47:09.236Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T19:48:38.293Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:48:38.320Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T19:50:37.682Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:50:37.716Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T19:52:29.517Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T19:52:29.543Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T20:00:59.970Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T20:00:59.997Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T20:03:55.773Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T20:03:55.801Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T20:06:29.004Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T20:06:29.030Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T20:09:31.494Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T20:09:31.521Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T20:31:38.289Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T20:31:38.316Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T20:34:51.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T20:34:51.090Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T20:41:52.871Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T20:41:52.896Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T20:45:14.920Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T20:45:14.946Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-25T20:47:13.738Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-25T20:47:13.764Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T08:34:13.423Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T08:34:13.473Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T08:41:44.257Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T08:41:44.283Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T08:43:46.779Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T08:43:46.807Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T08:48:06.220Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T08:48:06.247Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T08:59:02.976Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T08:59:03.001Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T09:06:02.036Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T09:06:02.063Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T09:08:57.261Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T09:08:57.289Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T09:56:45.870Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T09:56:45.896Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T13:43:36.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T13:43:36.373Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T14:14:50.528Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T14:14:50.555Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T14:21:30.573Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T14:21:30.598Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T14:25:40.809Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T14:25:40.836Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T14:26:51.610Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T14:26:51.635Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T14:29:28.971Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T14:29:28.997Z"}
+{"message":"localStorage is not defined","stack":"ReferenceError: localStorage is not defined\n    at module.exports (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/middleware/auth.js:8:17)\n    at newFn (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:354:14)\n    at param (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:410:3)\n    at next (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:317:13)\n    at /Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:335:12)\n    at next (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:275:10)\n    at /Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/body-parser/lib/read.js:130:5\n    at invokeCallback (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/raw-body/index.js:224:16)","level":"error","timestamp":"2021-06-26T14:29:48.838Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T14:48:10.442Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T14:48:10.469Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T15:07:27.577Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T15:07:27.604Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T15:09:57.548Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T15:09:57.588Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T15:15:49.778Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T15:15:49.805Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T15:29:35.430Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T15:29:35.456Z"}
+{"message":"Cannot read property 'get' of undefined","stack":"TypeError: Cannot read property 'get' of undefined\n    at module.exports (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/middleware/admin.js:4:16)\n    at newFn (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/route.js:137:13)\n    at module.exports (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/middleware/auth.js:13:5)\n    at newFn (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/route.js:112:3)\n    at newFn (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:281:22\n    at param (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:354:14)\n    at param (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:365:14)\n    at Function.process_params (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:410:3)\n    at next (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:174:3)\n    at router (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:47:12)\n    at newFn (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express-async-errors/index.js:16:20)\n    at Layer.handle [as handle_request] (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:317:13)\n    at /Users/dimitrismavrokefalos/Desktop/MovieRental/backend/node_modules/express/lib/router/index.js:284:7","level":"error","timestamp":"2021-06-26T15:30:26.031Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T15:31:36.448Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T15:31:36.476Z"}
+{"level":"info","message":"Listening on port 4000","timestamp":"2021-06-26T15:38:31.610Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly2...","timestamp":"2021-06-26T15:38:31.637Z"}

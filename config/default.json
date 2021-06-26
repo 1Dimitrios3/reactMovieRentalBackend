@@ -1,6 +1,6 @@
 {
-    "jwtPrivateKeyMaster": "1234",
+    "jwtPrivateKeyMaster": "unsecureKey",
     "db": "mongodb://localhost/vidly2",
-    "port": "3009",
+    "port": "3900",
     "requiresAuth": true
-}
+  }
